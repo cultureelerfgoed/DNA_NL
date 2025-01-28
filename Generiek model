@@ -180,6 +180,47 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="1YAmzxsdqx32Cbp6iv_i" name="ZAAK">
+    <mxGraphModel dx="1946" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aDgjuTBsUWr6mGjhjvXO-1" value="Zaakobject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDgjuTBsUWr6mGjhjvXO-2" value="Zaak" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDgjuTBsUWr6mGjhjvXO-3" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192" y="599" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aDgjuTBsUWr6mGjhjvXO-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;" edge="1" source="aDgjuTBsUWr6mGjhjvXO-1" target="aDgjuTBsUWr6mGjhjvXO-2" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61" y="893" as="sourcePoint" />
+            <mxPoint x="111" y="843" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDgjuTBsUWr6mGjhjvXO-5" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="603" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aDgjuTBsUWr6mGjhjvXO-6" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="441" y="601" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ige7TW7EHCDr8Z4ptDAU-1" value="Cultuurhistorisch Object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ige7TW7EHCDr8Z4ptDAU-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ige7TW7EHCDr8Z4ptDAU-1" target="aDgjuTBsUWr6mGjhjvXO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="705" as="sourcePoint" />
+            <mxPoint x="326" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ige7TW7EHCDr8Z4ptDAU-3" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283" y="599" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="UZxVro4NC1JeJB5fEOJV" name="Rijksmonument">
     <mxGraphModel dx="1946" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,47 +399,6 @@
         </mxCell>
         <mxCell id="GJLwFciFcjiCZRUvsLRH-10" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="372" y="467" width="25" height="26" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="1YAmzxsdqx32Cbp6iv_i" name="ZAAK">
-    <mxGraphModel dx="1946" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="aDgjuTBsUWr6mGjhjvXO-1" value="Zaakobject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="573" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aDgjuTBsUWr6mGjhjvXO-2" value="Zaak" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="566" y="573" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aDgjuTBsUWr6mGjhjvXO-3" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="192" y="599" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aDgjuTBsUWr6mGjhjvXO-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;" edge="1" source="aDgjuTBsUWr6mGjhjvXO-1" target="aDgjuTBsUWr6mGjhjvXO-2" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="61" y="893" as="sourcePoint" />
-            <mxPoint x="111" y="843" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aDgjuTBsUWr6mGjhjvXO-5" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="603" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aDgjuTBsUWr6mGjhjvXO-6" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="441" y="601" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ige7TW7EHCDr8Z4ptDAU-1" value="Cultuurhistorisch Object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="573" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ige7TW7EHCDr8Z4ptDAU-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ige7TW7EHCDr8Z4ptDAU-1" target="aDgjuTBsUWr6mGjhjvXO-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="304" y="705" as="sourcePoint" />
-            <mxPoint x="326" y="679" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ige7TW7EHCDr8Z4ptDAU-3" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="283" y="599" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
