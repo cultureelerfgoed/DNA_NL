@@ -765,10 +765,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HxLfzdlpOkhlGr-0tBBa-1" value="Afbeelding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="56" width="120" height="60" as="geometry" />
+          <mxGeometry x="242" y="54" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HxLfzdlpOkhlGr-0tBBa-2" value="Foto &amp;amp; Dia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="184" width="120" height="60" as="geometry" />
+        <mxCell id="HxLfzdlpOkhlGr-0tBBa-2" value="Foto&#39;s &amp;amp; dia&#39;s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="193" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zaop7j21LMMSj8XdmUoS-1" value="Bouwtekeningen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="184" width="120" height="60" as="geometry" />
@@ -788,23 +788,29 @@
             <mxPoint x="393" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m2XmdQsjaxBRcem4iey1-3" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.2;exitY=0.017;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="Zaop7j21LMMSj8XdmUoS-1" target="HxLfzdlpOkhlGr-0tBBa-1">
+        <mxCell id="m2XmdQsjaxBRcem4iey1-3" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Zaop7j21LMMSj8XdmUoS-1" target="HxLfzdlpOkhlGr-0tBBa-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="426" y="117" as="sourcePoint" />
             <mxPoint x="426" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m2XmdQsjaxBRcem4iey1-4" value="Kunstcollecties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="184" width="120" height="60" as="geometry" />
+          <mxGeometry x="574" y="184" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m2XmdQsjaxBRcem4iey1-6" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.342;exitY=-0.033;exitDx=0;exitDy=0;entryX=0.975;entryY=0.917;entryDx=0;entryDy=0;endFill=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="m2XmdQsjaxBRcem4iey1-4" target="HxLfzdlpOkhlGr-0tBBa-1">
+        <mxCell id="m2XmdQsjaxBRcem4iey1-6" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.342;exitY=-0.033;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="m2XmdQsjaxBRcem4iey1-4" target="HxLfzdlpOkhlGr-0tBBa-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="557" y="144" as="sourcePoint" />
             <mxPoint x="434" y="76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m2XmdQsjaxBRcem4iey1-7" value="Kadastrale tekeningen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="337" width="120" height="60" as="geometry" />
+          <mxGeometry x="442" y="184" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2XmdQsjaxBRcem4iey1-8" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="m2XmdQsjaxBRcem4iey1-7" target="HxLfzdlpOkhlGr-0tBBa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="449" as="sourcePoint" />
+            <mxPoint x="260" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
