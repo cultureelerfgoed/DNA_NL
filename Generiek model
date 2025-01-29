@@ -764,16 +764,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HxLfzdlpOkhlGr-0tBBa-1" value="Beeldbank" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HxLfzdlpOkhlGr-0tBBa-1" value="Afbeelding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="54" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HxLfzdlpOkhlGr-0tBBa-2" value="Foto&#39;s &amp;amp; dia&#39;s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HxLfzdlpOkhlGr-0tBBa-2" value="Foto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="29" y="193" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zaop7j21LMMSj8XdmUoS-1" value="Bouwtekeningen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zaop7j21LMMSj8XdmUoS-1" value="Tekening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="193" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zaop7j21LMMSj8XdmUoS-2" value="Prenten en Oude Tekeningen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zaop7j21LMMSj8XdmUoS-2" value="Prent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="172" y="193" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m2XmdQsjaxBRcem4iey1-1" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="HxLfzdlpOkhlGr-0tBBa-2" target="HxLfzdlpOkhlGr-0tBBa-1">
@@ -794,16 +794,7 @@
             <mxPoint x="426" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m2XmdQsjaxBRcem4iey1-4" value="Kunstcollecties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="193" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="m2XmdQsjaxBRcem4iey1-6" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.342;exitY=-0.033;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="m2XmdQsjaxBRcem4iey1-4" target="HxLfzdlpOkhlGr-0tBBa-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="557" y="144" as="sourcePoint" />
-            <mxPoint x="434" y="76" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m2XmdQsjaxBRcem4iey1-7" value="Kadastrale tekeningen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m2XmdQsjaxBRcem4iey1-7" value="Dia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="448" y="193" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m2XmdQsjaxBRcem4iey1-8" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="m2XmdQsjaxBRcem4iey1-7" target="HxLfzdlpOkhlGr-0tBBa-1">
@@ -811,6 +802,36 @@
             <mxPoint x="300" y="449" as="sourcePoint" />
             <mxPoint x="260" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m2XmdQsjaxBRcem4iey1-9" value="Afbeelding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="362" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2XmdQsjaxBRcem4iey1-10" value="Rijksmonument" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148" y="746" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2XmdQsjaxBRcem4iey1-11" value="Kunstwerk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="877" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2XmdQsjaxBRcem4iey1-12" value="Niet Rijksmonument" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="746" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2XmdQsjaxBRcem4iey1-13" value="Bouwwerk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="873" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pnYgLNAcie6dV7K24ME5-1" value="Cultuurhistorisch Object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pnYgLNAcie6dV7K24ME5-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.442;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pnYgLNAcie6dV7K24ME5-1" target="m2XmdQsjaxBRcem4iey1-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="496" as="sourcePoint" />
+            <mxPoint x="375" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qqLzBMJ2V9q4qVbV1DPD-1" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="422" width="25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qqLzBMJ2V9q4qVbV1DPD-2" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="333" y="490" width="36" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
