@@ -579,245 +579,209 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K6RAtCQ69ejHvV-RIph8-11" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="281" y="1348" width="120" height="60" as="geometry" />
+          <mxGeometry x="276" y="928" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-12" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="101" y="1464" width="120" height="60" as="geometry" />
+          <mxGeometry x="96" y="1044" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-13" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="469" y="1464" width="120" height="60" as="geometry" />
+          <mxGeometry x="464" y="1044" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-14" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="93" y="1243" width="120" height="60" as="geometry" />
+          <mxGeometry x="88" y="823" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-15" value="Locatie" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="469" y="1241" width="120" height="60" as="geometry" />
+          <mxGeometry x="464" y="821" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=0.925;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="K6RAtCQ69ejHvV-RIph8-14" target="K6RAtCQ69ejHvV-RIph8-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="235" y="1304" as="sourcePoint" />
-            <mxPoint x="368" y="1276" as="targetPoint" />
+            <mxPoint x="230" y="884" as="sourcePoint" />
+            <mxPoint x="363" y="856" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="K6RAtCQ69ejHvV-RIph8-15" target="K6RAtCQ69ejHvV-RIph8-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="556" y="1306" as="sourcePoint" />
-            <mxPoint x="638" y="1351" as="targetPoint" />
+            <mxPoint x="551" y="886" as="sourcePoint" />
+            <mxPoint x="633" y="931" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.95;entryY=0.033;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="K6RAtCQ69ejHvV-RIph8-11" target="K6RAtCQ69ejHvV-RIph8-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234" y="1426" as="sourcePoint" />
-            <mxPoint x="316" y="1471" as="targetPoint" />
+            <mxPoint x="229" y="1006" as="sourcePoint" />
+            <mxPoint x="311" y="1051" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=1;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="K6RAtCQ69ejHvV-RIph8-11" target="K6RAtCQ69ejHvV-RIph8-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="462" y="1408" as="sourcePoint" />
-            <mxPoint x="465" y="1521" as="targetPoint" />
+            <mxPoint x="457" y="988" as="sourcePoint" />
+            <mxPoint x="460" y="1101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6RAtCQ69ejHvV-RIph8-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Object = &lt;/b&gt;Het centrale entiteit, kan een cultureel object, mediaobject of informatieobject zijn.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dimensie&lt;/b&gt; = Fysieke kenmerken van een object. zoals afmetingen, onderdelen&lt;/div&gt;&lt;div&gt;&lt;b&gt;Locatie&lt;/b&gt; = Geografische informatie over waar een object zich bevindt of gevonden is.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Actor&lt;/b&gt; = Personen en organisaties die een rol spelen.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Type&lt;/b&gt; = Kenmerken van een object.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tijdsaspect&lt;/b&gt; = Tijdsgerelateerde informatie, zoals datum, perioden.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Gebeurtenis&lt;/b&gt; = Gebeurtenissen die gerelateerd zijn aan een object, zoals onderzoek, restauratie.&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Cultureel Object&lt;/strong&gt; (bijv. archeologische vondst, schilderij, monument).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Informatieobject&lt;/strong&gt; (bijv. boek, document, artikel).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Mediaobject&lt;/strong&gt; (bijv. foto, tekening, 3D-model, video, audio).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Object kunnen &lt;br&gt;&lt;/div&gt;&lt;div&gt;.&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="577" width="511" height="257" as="geometry" />
+        <mxCell id="K6RAtCQ69ejHvV-RIph8-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Object = &lt;/b&gt;Het centrale entiteit, kan een cultureel object, mediaobject of informatieobject zijn.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dimensie&lt;/b&gt; = Fysieke kenmerken van een object. zoals afmetingen, onderdelen&lt;/div&gt;&lt;div&gt;&lt;b&gt;Locatie&lt;/b&gt; = Geografische informatie over waar een object zich bevindt of gevonden is.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Actor&lt;/b&gt; = Personen en organisaties die een rol spelen.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Type&lt;/b&gt; = Kenmerken van een object.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tijdsaspect&lt;/b&gt; = Tijdsgerelateerde informatie, zoals datum, perioden.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Gebeurtenis&lt;/b&gt; = Gebeurtenissen die gerelateerd zijn aan een object, zoals onderzoek, restauratie.&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Cultureel Object&lt;/strong&gt; (bijv. archeologische vondst, schilderij, monument).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Informatieobject&lt;/strong&gt; (bijv. boek, document, artikel).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Mediaobject&lt;/strong&gt; (bijv. foto, tekening, 3D-model, video, audio).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&lt;i&gt;n dit model worden gevallen waarin een tijdsaspect een inherente eigenschap van een object is, zoals het publicatiejaar van een boek of het vervaardigingsjaar van een schilderij, wordt dit direct als eigenschap aan het object toegekend. Voor gebeurtenissen met een eigen context, zoals een onderzoek of restauratie, wordt een aparte gebeurtenis-entiteit gebruikt, waarbij tijd, actoren en locaties expliciet worden gemodelleerd. &lt;/i&gt;&lt;/div&gt;&lt;div&gt;.&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65" y="157" width="511" height="317" as="geometry" />
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-31" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Gebeurtenis gedreven modellering gebruiken bij het aanduiden van bijvoorbeeld meerdere gebeurtenissen, zoals onderzoeken en restauraties. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="61" y="1573" width="331" height="105" as="geometry" />
+          <mxGeometry x="56" y="1153" width="331" height="105" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-23" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1922" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1502" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-24" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2094" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1674" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-25" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1803" width="120" height="60" as="geometry" />
+          <mxGeometry x="515" y="1383" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-26" value="Dimensie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="117" y="1801" width="120" height="60" as="geometry" />
+          <mxGeometry x="112" y="1381" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-27" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;entryX=0.083;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-26" target="eqL5kSuswq0MBJoUPbVy-23" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="398" y="2118" as="sourcePoint" />
-            <mxPoint x="342" y="1929" as="targetPoint" />
+            <mxPoint x="393" y="1698" as="sourcePoint" />
+            <mxPoint x="337" y="1509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-28" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-23" target="eqL5kSuswq0MBJoUPbVy-24" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="331" y="2034" as="sourcePoint" />
-            <mxPoint x="413" y="2091" as="targetPoint" />
+            <mxPoint x="326" y="1614" as="sourcePoint" />
+            <mxPoint x="408" y="1671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-29" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-23" target="eqL5kSuswq0MBJoUPbVy-25" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="452" y="1980" as="sourcePoint" />
-            <mxPoint x="622" y="1801" as="targetPoint" />
+            <mxPoint x="447" y="1560" as="sourcePoint" />
+            <mxPoint x="617" y="1381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=9;startSize=9;" edge="1" source="eqL5kSuswq0MBJoUPbVy-31" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315" y="-158" as="sourcePoint" />
-            <mxPoint x="227" y="-144" as="targetPoint" />
+            <mxPoint x="310" y="-578" as="sourcePoint" />
+            <mxPoint x="222" y="-564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-31" value="Locatie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="117" width="120" height="60" as="geometry" />
+          <mxGeometry x="308" y="-303" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-33" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-96" y="-229" as="sourcePoint" />
-            <mxPoint x="8" y="-237" as="targetPoint" />
+            <mxPoint x="-101" y="-649" as="sourcePoint" />
+            <mxPoint x="3" y="-657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-33" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72" y="287" width="120" height="60" as="geometry" />
+          <mxGeometry x="67" y="-133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-34" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="287" width="120" height="60" as="geometry" />
+          <mxGeometry x="545" y="-133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-34" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="-565" as="sourcePoint" />
-            <mxPoint x="628" y="-471" as="targetPoint" />
+            <mxPoint x="645" y="-985" as="sourcePoint" />
+            <mxPoint x="623" y="-891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-36" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="311" y="287" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="-133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-37" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="459" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="39" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-38" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="127" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="-293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-39" value="Dimensie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="66" y="127" width="120" height="60" as="geometry" />
+          <mxGeometry x="61" y="-293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-40" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;entryX=0.083;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-39" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="374" y="483" as="sourcePoint" />
-            <mxPoint x="318" y="294" as="targetPoint" />
+            <mxPoint x="369" y="63" as="sourcePoint" />
+            <mxPoint x="313" y="-126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-41" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-36" target="eqL5kSuswq0MBJoUPbVy-37" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="307" y="399" as="sourcePoint" />
-            <mxPoint x="389" y="456" as="targetPoint" />
+            <mxPoint x="302" y="-21" as="sourcePoint" />
+            <mxPoint x="384" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-42" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-36" target="eqL5kSuswq0MBJoUPbVy-38" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="428" y="345" as="sourcePoint" />
-            <mxPoint x="598" y="166" as="targetPoint" />
+            <mxPoint x="423" y="-75" as="sourcePoint" />
+            <mxPoint x="593" y="-254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-43" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="265.5" y="873" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-44" value="Cultureel Object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1008" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-45" value="Informatieobject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265.5" y="1008" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-46" value="Mediaobject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1008" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-47" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="eqL5kSuswq0MBJoUPbVy-44">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="134" y="1000" as="sourcePoint" />
-            <mxPoint x="267" y="935" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-49" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="eqL5kSuswq0MBJoUPbVy-45" target="eqL5kSuswq0MBJoUPbVy-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="421" y="939" as="sourcePoint" />
-            <mxPoint x="549" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-50" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="eqL5kSuswq0MBJoUPbVy-46" target="eqL5kSuswq0MBJoUPbVy-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="943" as="sourcePoint" />
-            <mxPoint x="558" y="864" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eqL5kSuswq0MBJoUPbVy-44" target="eqL5kSuswq0MBJoUPbVy-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="298" y="1157" as="sourcePoint" />
-            <mxPoint x="348" y="1107" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-54" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;" edge="1" parent="1" target="eqL5kSuswq0MBJoUPbVy-44">
+        <mxCell id="eqL5kSuswq0MBJoUPbVy-54" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eqL5kSuswq0MBJoUPbVy-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="496" y="1068" as="sourcePoint" />
-            <mxPoint x="348" y="1185" as="targetPoint" />
+            <mxPoint x="130" y="1111" as="targetPoint" />
             <Array as="points">
               <mxPoint x="493" y="1068" />
               <mxPoint x="365" y="1137" />
-              <mxPoint x="319" y="1142" />
+              <mxPoint x="326" y="1194" />
               <mxPoint x="284" y="1142" />
               <mxPoint x="234" y="1129" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-55" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Objecten worden wat betreft locatie, actor, tijdsaspect altijd gemodelleerd als gebeurtenis. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="47" y="2215" width="331" height="105" as="geometry" />
+          <mxGeometry x="42" y="1795" width="331" height="105" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-56" value="Begrippen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="77" y="2427" width="120" height="60" as="geometry" />
+          <mxGeometry x="72" y="2007" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-72" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Begrippen = Zijn woordenlijsten en thesaurustermen gebruikt binnen attributen. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="59" y="2527" width="331" height="105" as="geometry" />
+          <mxGeometry x="54" y="2107" width="331" height="105" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-86" value="Locatie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="177.5" y="-281" width="120" height="60" as="geometry" />
+          <mxGeometry x="172.5" y="-701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-87" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="317" y="-281" width="120" height="60" as="geometry" />
+          <mxGeometry x="312" y="-701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-88" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="597" y="-279" width="120" height="60" as="geometry" />
+          <mxGeometry x="592" y="-699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-89" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="335" y="-513" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="-933" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-90" value="Type" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="457" y="-281" width="120" height="60" as="geometry" />
+          <mxGeometry x="452" y="-701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-91" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="862" y="-281" width="120" height="60" as="geometry" />
+          <mxGeometry x="857" y="-701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-92" value="Dimensie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="38" y="-283" width="120" height="60" as="geometry" />
+          <mxGeometry x="33" y="-703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-93" value="Cultureel Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="198" y="-396" width="120" height="60" as="geometry" />
+          <mxGeometry x="193" y="-816" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-94" value="Informatieobject" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="342" y="-396" width="120" height="60" as="geometry" />
+          <mxGeometry x="337" y="-816" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-95" value="Mediaobject" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="478" y="-396" width="120" height="60" as="geometry" />
+          <mxGeometry x="473" y="-816" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-96" value="Begrippen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="29" y="-63" width="1164" height="60" as="geometry" />
+          <mxGeometry x="24" y="-483" width="1164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-97" value="Locatie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="652" y="-167" width="120" height="60" as="geometry" />
+          <mxGeometry x="647" y="-587" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-98" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="-167" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="-587" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-99" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="929" y="-167" width="120" height="60" as="geometry" />
+          <mxGeometry x="924" y="-587" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-100" value="Type" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="793" y="-167" width="120" height="60" as="geometry" />
+          <mxGeometry x="788" y="-587" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-101" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="66" y="2703" width="120" height="60" as="geometry" />
+          <mxGeometry x="61" y="2283" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-102" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hoe om te gaan met actor en zijn rol. Modelleren we dat als specifieke type rol relatie?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="59" y="2824" width="331" height="105" as="geometry" />
+        <mxCell id="eqL5kSuswq0MBJoUPbVy-102" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hoe om te gaan met actor en zijn rol? Modelleren we dat als specifieke type rol relatie? Of als relatie-rol aan Actor. Maar hoe per Gebeurtenis dan tussenentiteit Actorrol of betrokkenheid&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="2404" width="331" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
