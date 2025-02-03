@@ -1105,52 +1105,64 @@
           <mxGeometry x="874" y="2055" width="331" height="105" as="geometry" />
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-80" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="166" y="1965" width="120" height="60" as="geometry" />
+          <mxGeometry x="445" y="1933" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-81" value="datum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="46" y="2074" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="2042" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-82" value="Periode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="2074" width="120" height="60" as="geometry" />
+          <mxGeometry x="571.5" y="2042" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-91" value="begindatum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="206.5" y="2171" width="120" height="60" as="geometry" />
+          <mxGeometry x="485.5" y="2139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-92" value="einddatum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2171" width="120" height="60" as="geometry" />
+          <mxGeometry x="679" y="2139" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MOaLg_6TZtgvdzpRFgbC-93" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Een tijdsaspect kan hebben een datum, tijdvak en periode met tijdvak. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="101" y="2267" width="331" height="105" as="geometry" />
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-93" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Een tijdsaspect kan een enkele datum hebben of een tijdvak bestaande uit een begin- en einddatum of een periode met een begin of einddatum. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28" y="2290" width="331" height="105" as="geometry" />
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-96" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOaLg_6TZtgvdzpRFgbC-80" target="MOaLg_6TZtgvdzpRFgbC-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="94" y="2010" as="sourcePoint" />
-            <mxPoint x="94" y="2122" as="targetPoint" />
+            <mxPoint x="373" y="1978" as="sourcePoint" />
+            <mxPoint x="373" y="2090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-97" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.386;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOaLg_6TZtgvdzpRFgbC-80" target="MOaLg_6TZtgvdzpRFgbC-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364" y="2005" as="sourcePoint" />
-            <mxPoint x="364" y="2117" as="targetPoint" />
+            <mxPoint x="643" y="1973" as="sourcePoint" />
+            <mxPoint x="643" y="2085" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-98" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOaLg_6TZtgvdzpRFgbC-82" target="MOaLg_6TZtgvdzpRFgbC-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="2197" as="sourcePoint" />
-            <mxPoint x="39" y="2303" as="targetPoint" />
+            <mxPoint x="309" y="2165" as="sourcePoint" />
+            <mxPoint x="318" y="2271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MOaLg_6TZtgvdzpRFgbC-99" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=0.981;exitY=0.922;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.578;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOaLg_6TZtgvdzpRFgbC-82" target="MOaLg_6TZtgvdzpRFgbC-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="534" y="2098" as="sourcePoint" />
-            <mxPoint x="534" y="2210" as="targetPoint" />
+            <mxPoint x="813" y="2066" as="sourcePoint" />
+            <mxPoint x="813" y="2178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MOaLg_6TZtgvdzpRFgbC-102" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="2055" width="362" height="200" as="geometry" />
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-103" value="&lt;b&gt;TIJDVAK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="647" y="1990" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOaLg_6TZtgvdzpRFgbC-103" value="TIJDVAK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="369" y="2014" width="60" height="30" as="geometry" />
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-104" value="" style="swimlane;startSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="474" y="2035" width="345" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-105" value="begindatum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="2042" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-106" value="einddatum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="2042" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-107" value="" style="swimlane;startSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="13" y="1996" width="301" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-108" value="&lt;b&gt;TIJDVAK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2189" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
