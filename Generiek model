@@ -1022,6 +1022,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-34" value="Cultureel Object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-35" value="Informatieobject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-36" value="Mediaobject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOaLg_6TZtgvdzpRFgbC-36" target="MOaLg_6TZtgvdzpRFgbC-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="368" y="244" as="sourcePoint" />
+            <mxPoint x="418" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOaLg_6TZtgvdzpRFgbC-36" target="MOaLg_6TZtgvdzpRFgbC-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="177" as="sourcePoint" />
+            <mxPoint x="720" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MOaLg_6TZtgvdzpRFgbC-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.981;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOaLg_6TZtgvdzpRFgbC-35" target="MOaLg_6TZtgvdzpRFgbC-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494" y="64" as="sourcePoint" />
+            <mxPoint x="387" y="-4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
