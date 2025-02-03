@@ -574,10 +574,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rbcYHxh8WxAp3sUjdQFb" name="Pagina-9">
-    <mxGraphModel dx="1408" dy="1885" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="2224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oFUE54KiDsYO2ez6X4Fv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-827" width="1367" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="oFUE54KiDsYO2ez6X4Fv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-459" width="1367" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="oFUE54KiDsYO2ez6X4Fv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-709" width="1367" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="oFUE54KiDsYO2ez6X4Fv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-940" width="1367" height="91" as="geometry" />
+        </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-11" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="276" y="928" width="120" height="60" as="geometry" />
         </mxCell>
@@ -617,7 +629,7 @@
             <mxPoint x="460" y="1101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6RAtCQ69ejHvV-RIph8-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Object = &lt;/b&gt;Het centrale entiteit, kan een cultureel object, mediaobject of informatieobject zijn.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dimensie&lt;/b&gt; = Fysieke kenmerken van een object. zoals afmetingen, onderdelen&lt;/div&gt;&lt;div&gt;&lt;b&gt;Locatie&lt;/b&gt; = Geografische informatie over waar een object zich bevindt of gevonden is.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Actor&lt;/b&gt; = Personen en organisaties die een rol spelen.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Type&lt;/b&gt; = Kenmerken van een object.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tijdsaspect&lt;/b&gt; = Tijdsgerelateerde informatie, zoals datum, perioden.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Gebeurtenis&lt;/b&gt; = Gebeurtenissen die gerelateerd zijn aan een object, zoals onderzoek, restauratie.&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Cultureel Object&lt;/strong&gt; =  een object dat van cultureel, historisch, artistiek of wetenschappelijk belang is. (bijv. archeologische vondst, schilderij, monument).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Informatieobject&lt;/strong&gt; = een object dat informatie bevat (bijv. boek, document, artikel).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Mediaobject&lt;/strong&gt; = Representatie van Cultureel object. (bijv. foto, tekening, 3D-model, video, audio). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&lt;i&gt;n dit model worden gevallen waarin een tijdsaspect een inherente eigenschap van een object is, zoals het publicatiejaar van een boek of het vervaardigingsjaar van een schilderij, wordt dit direct als eigenschap aan het object toegekend. Voor gebeurtenissen met een eigen context, zoals een onderzoek of restauratie, wordt een aparte gebeurtenis-entiteit gebruikt, waarbij tijd, actoren en locaties expliciet worden gemodelleerd. &lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="K6RAtCQ69ejHvV-RIph8-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Object = &lt;/b&gt;Het centrale entiteit, kan een cultureel object, mediaobject of informatieobject zijn.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dimensie&lt;/b&gt; = Fysieke kenmerken van een object. zoals afmetingen, onderdelen&lt;/div&gt;&lt;div&gt;&lt;b&gt;Locatie&lt;/b&gt; = Geografische informatie over waar een object zich bevindt of gevonden is.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Actor&lt;/b&gt; = Personen en organisaties die een rol spelen.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Type-aspect&lt;/b&gt; = Kenmerken van een object, zoals materiaal, functie, typologie.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tijdsaspect&lt;/b&gt; = Tijdsgerelateerde informatie, zoals datum, perioden.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Gebeurtenis&lt;/b&gt; = Gebeurtenissen die gerelateerd zijn aan een object, zoals onderzoek, restauratie.&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Cultureel Object&lt;/strong&gt; =  een object dat van cultureel, historisch, artistiek of wetenschappelijk belang is. (bijv. archeologische vondst, schilderij, monument).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Informatieobject&lt;/strong&gt; = een object dat informatie bevat (bijv. boek, document, artikel).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Mediaobject&lt;/strong&gt; = Representatie van Cultureel object. (bijv. foto, tekening, 3D-model, video, audio). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&lt;i&gt;n dit model worden gevallen waarin een tijdsaspect een inherente eigenschap van een object is, zoals het publicatiejaar van een boek of het vervaardigingsjaar van een schilderij, wordt dit direct als eigenschap aan het object toegekend. Voor gebeurtenissen met een eigen context, zoals een onderzoek of restauratie, wordt een aparte gebeurtenis-entiteit gebruikt, waarbij tijd, actoren en locaties expliciet worden gemodelleerd. &lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="157" width="511" height="351" as="geometry" />
         </mxCell>
         <mxCell id="K6RAtCQ69ejHvV-RIph8-31" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Gebeurtenis gedreven modellering gebruiken bij het aanduiden van bijvoorbeeld meerdere gebeurtenissen, zoals onderzoeken en restauraties. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -655,59 +667,59 @@
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=9;startSize=9;" edge="1" source="eqL5kSuswq0MBJoUPbVy-31" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="-578" as="sourcePoint" />
-            <mxPoint x="222" y="-564" as="targetPoint" />
+            <mxPoint x="1178" y="-169" as="sourcePoint" />
+            <mxPoint x="1090" y="-155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-31" value="Locatie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="-303" width="120" height="60" as="geometry" />
+          <mxGeometry x="1176" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-33" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-101" y="-649" as="sourcePoint" />
-            <mxPoint x="3" y="-657" as="targetPoint" />
+            <mxPoint x="767" y="-240" as="sourcePoint" />
+            <mxPoint x="871" y="-248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-33" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67" y="-133" width="120" height="60" as="geometry" />
+          <mxGeometry x="935" y="276" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-34" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-133" width="120" height="60" as="geometry" />
+          <mxGeometry x="1413" y="276" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-34" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="645" y="-985" as="sourcePoint" />
-            <mxPoint x="623" y="-891" as="targetPoint" />
+            <mxPoint x="1513" y="-576" as="sourcePoint" />
+            <mxPoint x="1491" y="-482" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-36" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="306" y="-133" width="120" height="60" as="geometry" />
+          <mxGeometry x="1174" y="276" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-37" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="39" width="120" height="60" as="geometry" />
+        <mxCell id="eqL5kSuswq0MBJoUPbVy-37" value="Type-aspect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="448" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-38" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="-293" width="120" height="60" as="geometry" />
+          <mxGeometry x="1423" y="116" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-39" value="Dimensie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="-293" width="120" height="60" as="geometry" />
+          <mxGeometry x="929" y="116" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-40" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;entryX=0.083;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-39" target="eqL5kSuswq0MBJoUPbVy-36" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369" y="63" as="sourcePoint" />
-            <mxPoint x="313" y="-126" as="targetPoint" />
+            <mxPoint x="1237" y="472" as="sourcePoint" />
+            <mxPoint x="1181" y="283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-41" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-36" target="eqL5kSuswq0MBJoUPbVy-37" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="302" y="-21" as="sourcePoint" />
-            <mxPoint x="384" y="36" as="targetPoint" />
+            <mxPoint x="1170" y="388" as="sourcePoint" />
+            <mxPoint x="1252" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-42" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="eqL5kSuswq0MBJoUPbVy-36" target="eqL5kSuswq0MBJoUPbVy-38" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="423" y="-75" as="sourcePoint" />
-            <mxPoint x="593" y="-254" as="targetPoint" />
+            <mxPoint x="1291" y="334" as="sourcePoint" />
+            <mxPoint x="1461" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-54" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eqL5kSuswq0MBJoUPbVy-46">
@@ -744,7 +756,7 @@
         <mxCell id="eqL5kSuswq0MBJoUPbVy-89" value="Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="-933" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eqL5kSuswq0MBJoUPbVy-90" value="Typeaspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="eqL5kSuswq0MBJoUPbVy-90" value="&lt;div&gt;Type-aspect&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="452" y="-701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-91" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -763,7 +775,7 @@
           <mxGeometry x="473" y="-816" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-96" value="Begrippen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="24" y="-483" width="1164" height="60" as="geometry" />
+          <mxGeometry x="25.5" y="-454" width="1342" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqL5kSuswq0MBJoUPbVy-97" value="Locatie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="647" y="-587" width="120" height="60" as="geometry" />
