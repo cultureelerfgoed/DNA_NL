@@ -2823,7 +2823,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="eHL2ETMP4NdhgCk7X4Vf-9" value="Locatie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-333" y="689" width="140" height="104" as="geometry" />
+          <mxGeometry x="-332" y="748" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="eHL2ETMP4NdhgCk7X4Vf-10" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="eHL2ETMP4NdhgCk7X4Vf-9" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -3010,6 +3010,15 @@
         </mxCell>
         <mxCell id="qQzobiIlOth5Qr1-H4CI-1" value="versie: 0.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1024" y="1084" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6y1h4Cto5GC0bhmx1o4P-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1.007;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eHL2ETMP4NdhgCk7X4Vf-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="747" as="sourcePoint" />
+            <mxPoint x="567" y="269" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="569" y="792" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
