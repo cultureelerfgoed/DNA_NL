@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.12" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.12" pages="16">
   <diagram id="x5CYgSJyI4G6lbw0s4Ws" name="CHOI-KENNIS">
     <mxGraphModel dx="3600" dy="2151" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1604,24 +1604,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xSAOsGyacJjxbWowz-NC" name="conceptueel model_v0.3">
-    <mxGraphModel dx="1582" dy="1955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o-01z2vy4wFovypWhaS4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1538" y="-1141" width="153" height="835" as="geometry" />
+          <mxGeometry x="1552.5" y="-1140" width="153" height="834" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="18" y="-1028" width="1498" height="91" as="geometry" />
+          <mxGeometry x="18" y="-1028" width="1510" height="91" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16" y="-400" width="1498" height="92" as="geometry" />
+          <mxGeometry x="16" y="-400" width="1511" height="92" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="18" y="-647" width="1495" height="233" as="geometry" />
+          <mxGeometry x="18" y="-647" width="1509" height="233" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="18" y="-1141" width="1498" height="91" as="geometry" />
+          <mxGeometry x="18" y="-1141" width="1508" height="91" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Object = &lt;/b&gt;Het centrale entiteit, kan een cultuurhistorisch object, mediaobject of informatieobject zijn of een onderdeel daarvan.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dimensie&lt;/b&gt; = Fysieke kenmerken van een object. zoals afmetingen, gewicht, materiaal, kleur, vorm, schade, etc.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ruimtelijk aspect&lt;/b&gt; = Geografische informatie over waar een object zich bevindt of gevonden is.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Actor&lt;/b&gt; = Personen en organisaties die een rol spelen.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Type-aspect&lt;/b&gt; = Kenmerken van een object, zoals materiaal, functie, typologie.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tijdsaspect&lt;/b&gt; = Tijdsgerelateerde informatie, zoals datum, perioden.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Gebeurtenis&lt;/b&gt; = Gebeurtenissen die gerelateerd zijn aan een object, zoals onderzoek, restauratie.&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Cultuurhistorisch object&lt;/strong&gt; =  een object dat van cultureel, historisch, artistiek of wetenschappelijk belang is. (bijv. archeologische vondst, schilderij, monument).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Informatieobject&lt;/strong&gt; = een object dat informatie bevat (bijv. boek, document, artikel).&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Mediaobject&lt;/strong&gt; = Representatie van Cultureel object. (bijv. foto, tekening, 3D-model, video, audio). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&lt;i&gt;n dit model worden gevallen waarin een tijdsaspect een inherente eigenschap van een object is, zoals het publicatiejaar van een boek of het vervaardigingsjaar van een schilderij, wordt dit direct als eigenschap aan het object toegekend. Voor gebeurtenissen met een eigen context, zoals een onderzoek of restauratie, wordt een aparte gebeurtenis-entiteit gebruikt, waarbij tijd, actoren en locaties expliciet worden gemodelleerd. &lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="41" y="1227" width="511" height="351" as="geometry" />
@@ -1766,7 +1766,7 @@
           <mxGeometry x="45" y="-345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="18" y="-915" width="1496" height="233" as="geometry" />
+          <mxGeometry x="18" y="-915" width="1513" height="233" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-46" value="Rijksmonument" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1004" y="-877" width="120" height="60" as="geometry" />
@@ -2245,7 +2245,7 @@
           <mxGeometry x="138" y="2404" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-144" value="Verantwoording" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="1557" y="-959" width="120" height="60" as="geometry" />
+          <mxGeometry x="1569" y="-959" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-145" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;Denk bij Provenance aan conflicterende waarheden en of wijzigingen in de tijd:&lt;br&gt;&lt;h3&gt;&lt;strong&gt;Verantwoordelijkheid&lt;/strong&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Definitie&lt;/strong&gt;: Dit verwijst naar de organisatie of de persoon die verantwoordelijk is voor de bron van de data, oftewel degene die de data heeft verzameld, bewerkt of gepubliceerd.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Waarom belangrijk&lt;/strong&gt;: Het is essentieel om te weten wie de gegevens heeft gegenereerd of beheert, zodat je kunt bepalen of de gegevens betrouwbaar zijn en wie verantwoordelijk is voor eventuele fouten of updates.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;2. &lt;strong&gt;Bron&lt;/strong&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Definitie&lt;/strong&gt;: De oorspronkelijke herkomst van de data. Dit kan een externe database, publicatie, API, onderzoeksorganisatie of een ander type bron zijn van waaruit de gegevens worden gehaald.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Waarom belangrijk&lt;/strong&gt;: Het vastleggen van de bron maakt het mogelijk om de &lt;strong&gt;herkomst&lt;/strong&gt; van gegevens te traceren en om transparantie te bieden over de oorsprong van de data. Dit is ook belangrijk voor de validatie en authenticatie van de gegevens.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;3. &lt;strong&gt;Geldigheid&lt;/strong&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Definitie&lt;/strong&gt;: De tijdsperiode waarin de data als accuraat en geldig wordt beschouwd. Dit omvat zowel het moment waarop de data werd verzameld of gepubliceerd, als de frequentie van updates of herzieningen van de data.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Waarom belangrijk&lt;/strong&gt;: Het helpt gebruikers van de data te begrijpen of de data actueel is en of het nog steeds relevant is voor hun toepassingen. Dit is vooral van belang als je gegevens uit externe bronnen gebruikt die regelmatig kunnen worden geüpdatet of aangepast.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;4. &lt;strong&gt;Betrouwbaarheid&lt;/strong&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Definitie&lt;/strong&gt;: De mate waarin de data consistent, accuraat en verifieerbaar is. Betrouwbare data komt van een vertrouwde bron en heeft een duidelijke geschiedenis van updates en validatie.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Waarom belangrijk&lt;/strong&gt;: Betrouwbaarheid zorgt ervoor dat de data correct wordt geïnterpreteerd en gebruikt, vooral als het wordt toegepast in analyses, rapportages of beslissingsprocessen..&lt;/li&gt;&lt;/ul&gt;&lt;hr&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="864" y="2333" width="1467" height="431" as="geometry" />
@@ -2262,7 +2262,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-148" value="" style="endArrow=none;html=1;rounded=0;entryX=0.45;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" parent="1" edge="1">
+        <mxCell id="o-01z2vy4wFovypWhaS4-148" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;entryX=0.946;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="o-01z2vy4wFovypWhaS4-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1046" y="-888" as="sourcePoint" />
             <mxPoint x="1286" y="-888" as="targetPoint" />
@@ -2435,59 +2435,59 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-180" value="Bron" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="1557" y="-826" width="120" height="60" as="geometry" />
+          <mxGeometry x="1569" y="-828.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-181" value="Betrouwbaarheid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="1559" y="-707" width="120" height="60" as="geometry" />
+          <mxGeometry x="1569" y="-707" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-182" value="Geldigheid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="1559" y="-587" width="120" height="60" as="geometry" />
+          <mxGeometry x="1565" y="-588" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-183" value="&lt;b&gt;PROVENANCE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="1552.5" y="-345" width="129" height="34" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-184" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1516" y="-1091.25" as="sourcePoint" />
-            <mxPoint x="1540" y="-1091.25" as="targetPoint" />
+            <mxPoint x="1527" y="-1089" as="sourcePoint" />
+            <mxPoint x="1551" y="-1089" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1540" y="-1091.25" />
+              <mxPoint x="1551" y="-1089" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-185" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1514" y="-982.75" as="sourcePoint" />
-            <mxPoint x="1538" y="-982.75" as="targetPoint" />
+            <mxPoint x="1528.5" y="-984.5" as="sourcePoint" />
+            <mxPoint x="1552.5" y="-984.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1538" y="-982.75" />
+              <mxPoint x="1552.5" y="-984.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-186" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1513" y="-785" as="sourcePoint" />
-            <mxPoint x="1537" y="-785" as="targetPoint" />
+            <mxPoint x="1528.5" y="-784" as="sourcePoint" />
+            <mxPoint x="1552.5" y="-784" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1537" y="-785" />
+              <mxPoint x="1552.5" y="-784" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-187" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1513" y="-521.5" as="sourcePoint" />
-            <mxPoint x="1537" y="-521.5" as="targetPoint" />
+            <mxPoint x="1528" y="-521.5" as="sourcePoint" />
+            <mxPoint x="1552" y="-521.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1537" y="-521.5" />
+              <mxPoint x="1552" y="-521.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-188" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1514" y="-357" as="sourcePoint" />
-            <mxPoint x="1538" y="-357" as="targetPoint" />
+            <mxPoint x="1528.5" y="-356" as="sourcePoint" />
+            <mxPoint x="1552.5" y="-356" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1538" y="-357" />
+              <mxPoint x="1552.5" y="-356" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2604,8 +2604,20 @@
         <mxCell id="o-01z2vy4wFovypWhaS4-207" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Een vondst heeft een verdere classificatie naar artefact, archeozoologische - en archeobotanische vondst met eigen attributen. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="39" y="2840" width="331" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="0x3MezENYavB2FptNVot-1" value="&lt;div&gt;Informatie&lt;/div&gt;&lt;div&gt;object&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0x3MezENYavB2FptNVot-1" value="&lt;div&gt;Informatie&lt;/div&gt;&lt;div&gt;object&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="783" y="-1012.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWRsABT_uOKeqI9n-1eW-1" value="Kunstobject" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1402" y="-875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWRsABT_uOKeqI9n-1eW-4" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1449" y="-872" as="sourcePoint" />
+            <mxPoint x="1449" y="-888" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1449" y="-888" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3538,6 +3550,56 @@
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rV5pWoNKzjAzBbEmygyC-8" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="rV5pWoNKzjAzBbEmygyC-5" vertex="1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vZrRp8Os1tiYn4ql0OQQ" name="Pagina-16">
+    <mxGraphModel dx="3355" dy="1245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sxm0VoOvuVpztDJJzTgS-1" value="Mediaobject" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="24" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NaDtcmeqaQQlPOOEa8D-1" value="Foto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="85.5" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NaDtcmeqaQQlPOOEa8D-2" value="Prent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NaDtcmeqaQQlPOOEa8D-3" value="Kaart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="374.5" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NaDtcmeqaQQlPOOEa8D-4" value="Dia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NaDtcmeqaQQlPOOEa8D-5" value="Tekening" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7xm1uc6EnwYcYLG5AhPO-1" value="Afgebeelde" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="498" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="7xm1uc6EnwYcYLG5AhPO-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7xm1uc6EnwYcYLG5AhPO-1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7xm1uc6EnwYcYLG5AhPO-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7xm1uc6EnwYcYLG5AhPO-1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7xm1uc6EnwYcYLG5AhPO-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7xm1uc6EnwYcYLG5AhPO-1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="watRV4g7stGcAcQU2q0d-1" value="Afbeelding" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="432" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="watRV4g7stGcAcQU2q0d-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="watRV4g7stGcAcQU2q0d-1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="watRV4g7stGcAcQU2q0d-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="watRV4g7stGcAcQU2q0d-1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="watRV4g7stGcAcQU2q0d-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="watRV4g7stGcAcQU2q0d-1">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
