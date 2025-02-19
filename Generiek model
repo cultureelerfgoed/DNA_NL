@@ -3529,6 +3529,24 @@
             <mxPoint x="-2653" y="713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="idSDPnDGnmpRM5A5g-Cs-1" value="Verwervingswijze &lt;i&gt;(Aquisitie)&lt;/i&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2397" y="849" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="idSDPnDGnmpRM5A5g-Cs-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="idSDPnDGnmpRM5A5g-Cs-1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="idSDPnDGnmpRM5A5g-Cs-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="idSDPnDGnmpRM5A5g-Cs-1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="idSDPnDGnmpRM5A5g-Cs-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="idSDPnDGnmpRM5A5g-Cs-1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="idSDPnDGnmpRM5A5g-Cs-5" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.786;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.493;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="idSDPnDGnmpRM5A5g-Cs-1" target="CFrUJsIl8q8eefatiqZi-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2332" y="845" as="sourcePoint" />
+            <mxPoint x="-2344" y="747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
