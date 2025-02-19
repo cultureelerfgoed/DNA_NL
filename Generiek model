@@ -1654,7 +1654,7 @@
         <mxCell id="o-01z2vy4wFovypWhaS4-12" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="41" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-13" value="Betrokkene" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="o-01z2vy4wFovypWhaS4-13" value="Actor/Betrokkene" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="519" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-14" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=9;startSize=9;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="o-01z2vy4wFovypWhaS4-13" target="o-01z2vy4wFovypWhaS4-16" edge="1">
@@ -2574,7 +2574,7 @@
         <mxCell id="M3g9uUwHbQ83cZEk8wvN-1" value="Materiele toestand" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="684" y="-637" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M3g9uUwHbQ83cZEk8wvN-2" value="Techniek" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="M3g9uUwHbQ83cZEk8wvN-2" value="Technisch aspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="817" y="-637" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3g9uUwHbQ83cZEk8wvN-3" value="Technisch aspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -2617,6 +2617,20 @@
         </mxCell>
         <mxCell id="GXB2171KuRiRK6-hMbA2-6" value="heeft" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GXB2171KuRiRK6-hMbA2-5">
           <mxGeometry x="0.2941" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXB2171KuRiRK6-hMbA2-7" value="Technisch aspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="803" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GXB2171KuRiRK6-hMbA2-8" value="" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GXB2171KuRiRK6-hMbA2-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1157" y="864" as="sourcePoint" />
+            <mxPoint x="1163" y="915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXB2171KuRiRK6-hMbA2-9" value="heeft" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GXB2171KuRiRK6-hMbA2-8">
+          <mxGeometry x="-0.0286" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
