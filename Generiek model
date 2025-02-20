@@ -2118,10 +2118,10 @@
         <mxCell id="o-01z2vy4wFovypWhaS4-123" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hoe om te gaan met actor en zijn rol? Modelleren we dat als specifieke type rol relatie? Zoals auteur, projectleider, schilder Of met een tussenentiteit, zoals betrokkenen. &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="864" y="1809" width="331" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-124" value="Collectie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="o-01z2vy4wFovypWhaS4-124" value="Verzameling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="864" y="1957" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-125" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Collectie&lt;/b&gt; = Groepen objecten die bij elkaar horen, als genoemde verzameling, zoals POT (Prenten en Oude tekeningen).&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;Is dit een aparte entiteit?&lt;/i&gt;&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o-01z2vy4wFovypWhaS4-125" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;strong data-end=&quot;258&quot; data-start=&quot;239&quot;&gt;Verzameling&lt;/strong&gt; = Een &lt;br/&gt;samenhangende groep cultuurhistorische objecten die bewust &lt;br/&gt;bijeengebracht is op basis van gedeelde kenmerken, zoals oorsprong, &lt;br/&gt;thematiek, typologie, herkomst of verzamelwijze. &lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;Is dit een aparte entiteit?&lt;/i&gt;&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="868" y="2063" width="331" height="105" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-126" value="Tijdsaspect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -2690,6 +2690,12 @@
           <mxGeometry x="-0.0073" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KtzVzaUaoOIRcEDj4ijC-8" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="2529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KtzVzaUaoOIRcEDj4ijC-9" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Gebruik &quot;Activiteit&quot; (ceo:Activiteit) voor handelingen waarbij een actor een rol speelt (zoals opgravingen, restauraties, catalogiseren).&lt;br&gt;Gebruik &quot;Gebeurtenis&quot; (ceo:Gebeurtenis) voor neutrale gebeurtenissen die plaatsvinden, soms zonder directe menselijke handeling (zoals natuurlijke erosie van een vindplaats).&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;In ons geval is de keuze om gebeurtenis te gebruiken, om zo ook niet door menselijk handelen ontstaat.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2664" width="452" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
