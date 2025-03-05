@@ -5244,7 +5244,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WjBSg8YRAy3SKVYk1Oz1-1" value="&lt;b&gt;(Cluster) Vondsten/monsters&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;swimlaneFillColor=none;glass=0;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="727" width="238" height="390" as="geometry" />
+          <mxGeometry x="183" y="727" width="238" height="442" as="geometry" />
         </mxCell>
         <mxCell id="-ujMw-Pvo5gj3oB6KNdq-3" value="+ Zoonr" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="26" width="238" height="26" as="geometry" />
@@ -5270,23 +5270,29 @@
         <mxCell id="mZhBwmx7m9mECRvWTRu5-5" value="+ Verwervingswijze &lt;i&gt;(uri)&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="208" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-2" value="+ Archeologische verzamelwijze" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="Mz9Mjyi2Isx1eFKjzqDJ-2" value="+ Datum_einde_veldwerk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="234" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-3" value="+ Gewicht" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-2" value="+ Archeologische verzamelwijze &lt;i&gt;(uri)&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="260" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-4" value="+ Gewogen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-3" value="+ Gewicht" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="286" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IERQn5wrb70RM9BX5Mxy-28" value="+ Omvang" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-4" value="+ Gewogen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="312" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IERQn5wrb70RM9BX5Mxy-29" value="+ RADAR sample code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="IERQn5wrb70RM9BX5Mxy-28" value="+ Omvang" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="338" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IERQn5wrb70RM9BX5Mxy-30" value="+ Volume" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="IERQn5wrb70RM9BX5Mxy-29" value="+ RADAR sample code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="364" width="238" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IERQn5wrb70RM9BX5Mxy-30" value="+ Complextype &lt;i&gt;(uri)&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+          <mxGeometry y="390" width="238" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mz9Mjyi2Isx1eFKjzqDJ-3" value="+ Spoortype &lt;i&gt;(uri)&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+          <mxGeometry y="416" width="238" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IERQn5wrb70RM9BX5Mxy-1" value="VondstLocatie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-17" y="410" width="140" height="104" as="geometry" />
