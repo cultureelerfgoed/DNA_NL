@@ -1966,43 +1966,10 @@
           <mxGeometry x="16" y="326" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-78" value="Informatieobject" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="330" y="333" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-79" value="Mediaobject" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="175" y="442" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="o-01z2vy4wFovypWhaS4-79" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="58" y="507" as="sourcePoint" />
-            <mxPoint x="80" y="386" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-81" value="is afgebeeld op" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o-01z2vy4wFovypWhaS4-80" vertex="1" connectable="0">
-          <mxGeometry x="0.1009" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-82" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="o-01z2vy4wFovypWhaS4-79" target="o-01z2vy4wFovypWhaS4-78" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="440" as="sourcePoint" />
-            <mxPoint x="410" y="372" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-83" value="staat in " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o-01z2vy4wFovypWhaS4-82" vertex="1" connectable="0">
-          <mxGeometry x="0.0891" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-84" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.981;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="o-01z2vy4wFovypWhaS4-78" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="184" y="327" as="sourcePoint" />
-            <mxPoint x="137.72000000000003" y="361.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-85" value="staat in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o-01z2vy4wFovypWhaS4-84" vertex="1" connectable="0">
-          <mxGeometry x="0.0436" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-86" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Een cultuurhistorisch object kan zijn afgebeeld op een of meerdere mediaobjecten, zoals een foto, tekening, website, etc. Of een mediaobject kan een afbeelding hebben van een of meerdere culturele objecten. Een mediaobject kan staan in een of meerdere Informatieobject(en), zoals een boek, tijdschrift, etc.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="46" y="575" width="331" height="134" as="geometry" />
@@ -2701,6 +2668,39 @@
             <Array as="points">
               <mxPoint x="362.25" y="-820" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvcvCmw6LiOz5SWDmZm-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.538;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o-01z2vy4wFovypWhaS4-77" target="o-01z2vy4wFovypWhaS4-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="466" as="sourcePoint" />
+            <mxPoint x="125" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvcvCmw6LiOz5SWDmZm-3" value="is afgebeeld op" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OAvcvCmw6LiOz5SWDmZm-2">
+          <mxGeometry x="-0.07" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvcvCmw6LiOz5SWDmZm-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o-01z2vy4wFovypWhaS4-77" target="o-01z2vy4wFovypWhaS4-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209" y="368" as="sourcePoint" />
+            <mxPoint x="259" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvcvCmw6LiOz5SWDmZm-5" value="staat beschreven in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OAvcvCmw6LiOz5SWDmZm-4">
+          <mxGeometry x="-0.0491" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvcvCmw6LiOz5SWDmZm-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.608;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o-01z2vy4wFovypWhaS4-79" target="o-01z2vy4wFovypWhaS4-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="495" as="sourcePoint" />
+            <mxPoint x="401" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvcvCmw6LiOz5SWDmZm-7" value="staat afgebeeld in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OAvcvCmw6LiOz5SWDmZm-6">
+          <mxGeometry x="0.0206" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
