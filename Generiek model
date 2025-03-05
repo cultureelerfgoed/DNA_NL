@@ -5244,9 +5244,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WjBSg8YRAy3SKVYk1Oz1-1" value="&lt;b&gt;(Cluster) vondsten/momsters&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;swimlaneFillColor=none;glass=0;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="727" width="238" height="286" as="geometry" />
+          <mxGeometry x="183" y="727" width="238" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="-ujMw-Pvo5gj3oB6KNdq-3" value="+ zoonr" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="-ujMw-Pvo5gj3oB6KNdq-3" value="+ Zoonr" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="26" width="238" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-ujMw-Pvo5gj3oB6KNdq-4" value="+ publicatienr" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
@@ -5258,23 +5258,26 @@
         <mxCell id="-ujMw-Pvo5gj3oB6KNdq-6" value="+ ARCHIS meldingsnummer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="104" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-2" value="+ Archeologische verzamelwijze" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="-ujMw-Pvo5gj3oB6KNdq-7" value="+ Zaaknummer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="130" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-3" value="+ Gewicht" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-2" value="+ Archeologische verzamelwijze" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="156" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-4" value="+ Gewogen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-3" value="+ Gewicht" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="182" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IERQn5wrb70RM9BX5Mxy-28" value="+ Omvang" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="WjBSg8YRAy3SKVYk1Oz1-4" value="+ Gewogen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="208" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IERQn5wrb70RM9BX5Mxy-29" value="+ RADAR sample code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="IERQn5wrb70RM9BX5Mxy-28" value="+ Omvang" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="234" width="238" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IERQn5wrb70RM9BX5Mxy-30" value="+ Volume" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+        <mxCell id="IERQn5wrb70RM9BX5Mxy-29" value="+ RADAR sample code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
           <mxGeometry y="260" width="238" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IERQn5wrb70RM9BX5Mxy-30" value="+ Volume" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WjBSg8YRAy3SKVYk1Oz1-1">
+          <mxGeometry y="286" width="238" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IERQn5wrb70RM9BX5Mxy-1" value="VondstLocatie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-17" y="410" width="140" height="104" as="geometry" />
