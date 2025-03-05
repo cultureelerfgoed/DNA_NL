@@ -1601,7 +1601,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xSAOsGyacJjxbWowz-NC" name="Uitgangspunten conceptueel model_v0.3">
-    <mxGraphModel dx="3355" dy="2414" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2693,6 +2693,15 @@
         </mxCell>
         <mxCell id="KtzVzaUaoOIRcEDj4ijC-9" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Gebruik &quot;Activiteit&quot; (ceo:Activiteit) voor handelingen waarbij een actor een rol speelt (zoals opgravingen, restauraties, catalogiseren).&lt;br&gt;Gebruik &quot;Gebeurtenis&quot; (ceo:Gebeurtenis) voor neutrale gebeurtenissen die plaatsvinden, soms zonder directe menselijke handeling (zoals natuurlijke erosie van een vindplaats).&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;In ons geval is de keuze om gebeurtenis te gebruiken, om zo ook niet door menselijk handelen ontstaat.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="2664" width="452" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvcvCmw6LiOz5SWDmZm-1" value="" style="endArrow=none;html=1;rounded=0;endSize=6;strokeWidth=3;strokeColor=#CCCCFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="362.5" y="-797" as="sourcePoint" />
+            <mxPoint x="362.25" y="-820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="362.25" y="-820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
