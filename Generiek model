@@ -5823,7 +5823,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ft4X75Zc4uoX7fRQdOZ9-5" value="Kennisregistratie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="548" y="688" width="140" height="104" as="geometry" />
+          <mxGeometry x="869" y="102" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="ft4X75Zc4uoX7fRQdOZ9-6" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ft4X75Zc4uoX7fRQdOZ9-5">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -5859,7 +5859,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ft4X75Zc4uoX7fRQdOZ9-17" value="Functie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="594" y="669" width="140" height="104" as="geometry" />
+          <mxGeometry x="1090" y="297" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="ft4X75Zc4uoX7fRQdOZ9-18" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ft4X75Zc4uoX7fRQdOZ9-17">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -6020,6 +6020,17 @@
         </mxCell>
         <mxCell id="Dy40nZsAK7Q9KXTXRK1W-22" value="heeft_als_type" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dy40nZsAK7Q9KXTXRK1W-21">
           <mxGeometry x="-0.0196" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="al0fsrE6QLxs6pgv3gcb-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1.021;exitY=1.077;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.154;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ft4X75Zc4uoX7fRQdOZ9-2" target="ft4X75Zc4uoX7fRQdOZ9-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="726" y="337" as="sourcePoint" />
+            <mxPoint x="776" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="al0fsrE6QLxs6pgv3gcb-2" value="heeft_kennisregistratie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="al0fsrE6QLxs6pgv3gcb-1">
+          <mxGeometry x="-0.0525" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
