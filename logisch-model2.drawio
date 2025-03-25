@@ -3227,7 +3227,7 @@
           <mxGeometry x="-468" y="-178" width="254" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KRM-vf6Hvt2emhYlbJTk-655" value="&lt;span style=&quot;font-weight: 400; text-wrap-mode: wrap;&quot;&gt;Locatie_aanduiding&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1149" y="-479" width="184.52941176470603" height="146" as="geometry" />
+          <mxGeometry x="-1133" y="-552" width="184.52941176470603" height="146" as="geometry" />
         </mxCell>
         <mxCell id="KRM-vf6Hvt2emhYlbJTk-656" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="KRM-vf6Hvt2emhYlbJTk-655" vertex="1">
           <mxGeometry y="30" width="184.52941176470603" height="30" as="geometry" />
@@ -3444,7 +3444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KRM-vf6Hvt2emhYlbJTk-706" value="basisregistratie adressen en gebouwen" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1532" y="-83" width="233" height="176" as="geometry" />
+          <mxGeometry x="-1532" y="-83" width="233" height="356" as="geometry" />
         </mxCell>
         <mxCell id="KRM-vf6Hvt2emhYlbJTk-707" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="KRM-vf6Hvt2emhYlbJTk-706" vertex="1">
           <mxGeometry y="30" width="233" height="30" as="geometry" />
@@ -3507,6 +3507,84 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KRM-vf6Hvt2emhYlbJTk-721" value="&lt;b&gt;plaatsnaam&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="KRM-vf6Hvt2emhYlbJTk-719" vertex="1">
+          <mxGeometry x="30" width="203" height="30" as="geometry">
+            <mxRectangle width="203" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-332" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KRM-vf6Hvt2emhYlbJTk-706">
+          <mxGeometry y="176" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-333" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-332">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-334" value="openbare_ruimte" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-332">
+          <mxGeometry x="30" width="203" height="30" as="geometry">
+            <mxRectangle width="203" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-335" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KRM-vf6Hvt2emhYlbJTk-706">
+          <mxGeometry y="206" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-336" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-335">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-337" value="huisnummer" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-335">
+          <mxGeometry x="30" width="203" height="30" as="geometry">
+            <mxRectangle width="203" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-341" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KRM-vf6Hvt2emhYlbJTk-706">
+          <mxGeometry y="236" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-342" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-341">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-343" value="huisnummer_toevoeging" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-341">
+          <mxGeometry x="30" width="203" height="30" as="geometry">
+            <mxRectangle width="203" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-338" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KRM-vf6Hvt2emhYlbJTk-706">
+          <mxGeometry y="266" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-339" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-338">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-340" value="volledig_adres" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-338">
+          <mxGeometry x="30" width="203" height="30" as="geometry">
+            <mxRectangle width="203" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-344" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KRM-vf6Hvt2emhYlbJTk-706">
+          <mxGeometry y="296" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-345" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-344">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-346" value="postcode" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-344">
+          <mxGeometry x="30" width="203" height="30" as="geometry">
+            <mxRectangle width="203" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-347" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KRM-vf6Hvt2emhYlbJTk-706">
+          <mxGeometry y="326" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-348" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-347">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-349" value="woonplaatsnaam" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="qKs8zyNAm7juSO6Kenzb-347">
           <mxGeometry x="30" width="203" height="30" as="geometry">
             <mxRectangle width="203" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5604,7 +5682,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mczwsrsfGXzOIHwsbcr6-283" value="overheid.nl_gemeente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;swimlaneFillColor=none;fillStyle=auto;strokeWidth=1;perimeterSpacing=1;rounded=1;swimlaneLine=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1541.18" y="147" width="210.70588235294122" height="90" as="geometry" />
+          <mxGeometry x="-1796" y="516" width="210.70588235294122" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mczwsrsfGXzOIHwsbcr6-284" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="mczwsrsfGXzOIHwsbcr6-283" vertex="1">
           <mxGeometry y="30" width="210.70588235294122" height="30" as="geometry" />
@@ -5633,7 +5711,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mczwsrsfGXzOIHwsbcr6-290" value="overheid.nl_provincie" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;swimlaneFillColor=none;fillStyle=auto;strokeWidth=1;perimeterSpacing=1;rounded=1;swimlaneLine=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1541.18" y="260" width="210.70588235294122" height="90" as="geometry" />
+          <mxGeometry x="-1796" y="629" width="210.70588235294122" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mczwsrsfGXzOIHwsbcr6-291" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="mczwsrsfGXzOIHwsbcr6-290" vertex="1">
           <mxGeometry y="30" width="210.70588235294122" height="30" as="geometry" />
@@ -5694,7 +5772,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mczwsrsfGXzOIHwsbcr6-306" value="Deze komen momenteel nog van OWMS maar &lt;br&gt;moeten omgezet worden naar overheid.nl" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1561.8" y="376" width="267" height="41" as="geometry" />
+          <mxGeometry x="-1577" y="526" width="267" height="41" as="geometry" />
         </mxCell>
         <mxCell id="mczwsrsfGXzOIHwsbcr6-307" value="dans_doi" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-206" y="-2298" width="184.52941176470603" height="90" as="geometry" />
@@ -7128,6 +7206,15 @@
         </mxCell>
         <mxCell id="qKs8zyNAm7juSO6Kenzb-330" value="&lt;div align=&quot;left&quot;&gt;Er is een discussie in hoeverre we id&#39;s en gegevens vanuit het kadaster opnemen in de data. zoals verblijfsid&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2018" y="147" width="301" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-350" value="&lt;div align=&quot;left&quot;&gt;Woonplaatsnaam is nu een string. Koppelen aan een lijst?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1647" y="318" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKs8zyNAm7juSO6Kenzb-351" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1540" y="315" as="sourcePoint" />
+            <mxPoint x="-1490" y="265" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
