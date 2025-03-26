@@ -407,7 +407,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-95" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Een object kan bestaan uit een of meerdere onderdelen. Een object kan liggen in een ander object. &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o-01z2vy4wFovypWhaS4-95" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Een cultuurhistorisch object kan bestaan uit een of meerdere onderdelen. Een object kan liggen in een ander object. &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="918" y="580" width="331" height="134" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-96" value="Gebeurtenis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -478,7 +478,7 @@
         <mxCell id="o-01z2vy4wFovypWhaS4-122" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Begrippen&lt;/b&gt; = Zijn woordenlijsten, taxanomie en thesaurustermen gebruikt binnen attributen. &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="877" y="1381" width="331" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="o-01z2vy4wFovypWhaS4-123" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hoe om te gaan met actor en zijn rol? Modelleren we dat als specifieke type rol relatie? Zoals auteur, projectleider, schilder Of met een tussenentiteit, zoals betrokkenen. &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o-01z2vy4wFovypWhaS4-123" value="&lt;div align=&quot;left&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legenda&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hoe om te gaan met actor en zijn rol? Modelleren we dat als specifieke type rol relatie? Zoals auteur, projectleider, schilder Of met een tussenentiteit, zoals betrokkene. Het uitgangspunt is nu we modelleren in de Kennisregistratie het Cultuurhistorisch object via tussenentiteit Betrokkene en in Informatie object en Media object specifiek als type actor en rol, zoals: is_geschreven_door of is_geredactioneerd_door. &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="864" y="1809" width="331" height="105" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-124" value="Verzameling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -735,7 +735,7 @@
           <mxGeometry x="1075" y="1711" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-177" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1303" y="1711" width="120" height="60" as="geometry" />
+          <mxGeometry x="1305" y="1708" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o-01z2vy4wFovypWhaS4-178" value="heeft" style="endArrow=none;html=1;rounded=0;endSize=9;startSize=9;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="o-01z2vy4wFovypWhaS4-176" target="o-01z2vy4wFovypWhaS4-175" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
