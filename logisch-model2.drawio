@@ -22080,10 +22080,10 @@
           <mxGeometry x="134" y="379" width="210" height="96" as="geometry" />
         </mxCell>
         <mxCell id="2r4LSzgBImBJbEI1h-ba-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;locatie registratie&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-342" y="379" width="210" height="96" as="geometry" />
+          <mxGeometry x="-360" y="379" width="210" height="96" as="geometry" />
         </mxCell>
         <mxCell id="2r4LSzgBImBJbEI1h-ba-8" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;kennis registratie&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="610" y="379" width="210" height="96" as="geometry" />
+          <mxGeometry x="675" y="379" width="210" height="96" as="geometry" />
         </mxCell>
         <mxCell id="2r4LSzgBImBJbEI1h-ba-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;beeld-audio-visueel&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;object&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="384" y="16" width="210" height="96" as="geometry" />
@@ -22130,10 +22130,20 @@
             <mxPoint x="35" y="142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Vqaxg1gsP4I89as8STze-1" value="heeft_kennisregistratie / heeft_betrekking_op" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7iecpZ3UOXBskMf8z06s-5">
+          <mxGeometry x="0.2932" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7iecpZ3UOXBskMf8z06s-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2r4LSzgBImBJbEI1h-ba-6" target="2r4LSzgBImBJbEI1h-ba-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="437" as="sourcePoint" />
             <mxPoint x="354" y="437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nK33XlWKJ6lOcibK5eps-1" value="heeft_locatieregistratie / localiseert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7iecpZ3UOXBskMf8z06s-6">
+          <mxGeometry x="-0.0226" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MdKHRv_ZDknZAQCIfXCn-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;standplaats registratie&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
