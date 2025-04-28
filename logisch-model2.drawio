@@ -22226,7 +22226,7 @@
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-24" value="ligt_in " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-23">
           <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-25" value="Archeologisch Complex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -22240,7 +22240,7 @@
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-27" value="ligt_in " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-26">
           <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="20" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4bhUHWrEZXiEC4F7-lwb-5" target="4bhUHWrEZXiEC4F7-lwb-25">
@@ -22252,7 +22252,7 @@
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-29" value="ligt_in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-28">
           <mxGeometry x="-0.1145" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.552;entryY=-0.014;entryDx=0;entryDy=0;strokeWidth=4;entryPerimeter=0;" edge="1" parent="1" source="4bhUHWrEZXiEC4F7-lwb-25" target="4bhUHWrEZXiEC4F7-lwb-2">
@@ -22263,7 +22263,7 @@
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-31" value="ligt_in " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-30">
           <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4bhUHWrEZXiEC4F7-lwb-2" target="4bhUHWrEZXiEC4F7-lwb-3">
@@ -22274,7 +22274,7 @@
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-33" value="ligt_in " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-32">
           <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4bhUHWrEZXiEC4F7-lwb-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="4bhUHWrEZXiEC4F7-lwb-25" target="4bhUHWrEZXiEC4F7-lwb-1">
@@ -22288,8 +22288,96 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4bhUHWrEZXiEC4F7-lwb-40" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Legenda&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Dit model gaat uit van een transitieve relatie &quot;ligt_in&quot; tussen de CH-objecten.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-40" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Legenda&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Dit model gaat uit van een transitieve relatie &quot;ligt_in&quot; en &quot;bevat&quot; tussen de CH-objecten.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="71" y="970" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-41" value="Rijksmonument (archeologisch)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="915" y="77" width="144" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-42" value="Archeologisch Terrein" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="915" y="232" width="144" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-43" value="&lt;div&gt;Vindplaats&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Vondstlocatie)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="908" y="641" width="144" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-44" value="Archeologisch Onderzoeksgebied" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="908" y="829" width="144" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-45" value="Grondsporen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="703" y="341" width="144" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-46" value="Vondsten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1107" y="341" width="144" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-47" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="4bhUHWrEZXiEC4F7-lwb-41" target="4bhUHWrEZXiEC4F7-lwb-42" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1162" y="150" as="sourcePoint" />
+            <mxPoint x="1165" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-48" value="bevat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-47">
+          <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-49" value="Archeologisch Complex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="915" y="453" width="144" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-50" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="4bhUHWrEZXiEC4F7-lwb-49" target="4bhUHWrEZXiEC4F7-lwb-45" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="793" y="535" as="sourcePoint" />
+            <mxPoint x="821" y="841" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-51" value="bevat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-50">
+          <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
+            <mxPoint x="-8" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="4bhUHWrEZXiEC4F7-lwb-49" target="4bhUHWrEZXiEC4F7-lwb-46" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1206" y="557" as="sourcePoint" />
+            <mxPoint x="1064" y="760" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-53" value="bevat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-52">
+          <mxGeometry x="-0.1145" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.441;entryY=0.971;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" source="4bhUHWrEZXiEC4F7-lwb-43" target="4bhUHWrEZXiEC4F7-lwb-49" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1128" y="624" as="sourcePoint" />
+            <mxPoint x="920" y="497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-55" value="bevat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-54">
+          <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
+            <mxPoint x="3" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="4bhUHWrEZXiEC4F7-lwb-44" target="4bhUHWrEZXiEC4F7-lwb-43" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1187" y="806" as="sourcePoint" />
+            <mxPoint x="1253" y="811" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-57" value="bevat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-56">
+          <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-58" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="4bhUHWrEZXiEC4F7-lwb-42" target="4bhUHWrEZXiEC4F7-lwb-49" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="745" y="496" as="sourcePoint" />
+            <mxPoint x="1044" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bhUHWrEZXiEC4F7-lwb-59" value="bevat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bhUHWrEZXiEC4F7-lwb-58">
+          <mxGeometry x="-0.3315" y="3" relative="1" as="geometry">
+            <mxPoint x="-5" y="17" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
