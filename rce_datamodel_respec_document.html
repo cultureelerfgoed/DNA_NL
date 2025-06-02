@@ -61,7 +61,11 @@
           concepten op hetzelfde niveau). Door deze opzet is het mogelijk om
           informatie op verschillende niveaus te onderscheiden en benaderen.
         </p>
-         </p>
+        <img
+              src="https://raw.githubusercontent.com/cultureelerfgoed/DNA_NL/main/CDM_lagen.drawio.svg"
+              alt="Visualisatie van"
+              width="1600"
+            />
         
         <section>
           <h4>objectlaag</h4>
@@ -269,6 +273,7 @@
               alt="Visualisatie van"
               width="800"
             />
+            <p>In de centrale kennisregistratie wordt de provenance van de kennisgegevens vastgelegd, zoals vertrouwelijkheid_aanduding, melder, formeel_standpunt.</p>
       </section>
 
       <section>
@@ -280,10 +285,13 @@
               alt="Visualisatie van"
               width="800"
             />
+      <p>In de centrale locatieregistratie wordt de provenance van de kennisgegevens vastgelegd, zoals vertrouwelijkheid_aanduding, melder, formeel_standpunt.</p>
       </section>
       <section>
         <h5>standplaatsregistratie</h5>
         <p>In de standplaatsregistratie wordt de specifieke plek van een object vastgeleg, zoals een gebouw, kast of plank.</p>
+        <br>
+        <p> In de centrale standplaatsregistratie wordt de provenance van de kennisgegevens vastgelegd, zoals vertrouwelijkheid_aanduding, melder, formeel_standpunt.</p>
         </section>
         </section>
       <h4>Begrippen</h4>
@@ -363,7 +371,7 @@
 
   <section id="attribuut-cultuurhistorisch-object">
     <h4>Cultuurhistorisch object</h4>
-    <p>Onderstaande tabel beschrijft de belangrijkste attributen van het cultuurhistorisch object, zoals gebruikt in het model.</p>
+    <p>Onderstaande tabel beschrijft de attributen van het cultuurhistorisch object, zoals gebruikt in het model.</p>
 
     <style>
   table.bordered {
@@ -394,33 +402,33 @@
   </thead>
   <tbody>
     <tr>
-      <td>identificatie</td>
+      <td>cho_id</td>
       <td>string</td>
-      <td>Unieke identificatie van het object</td>
+      <td>Unieke identificatie van het cultuurhistorisch object</td>
       <td>Ja</td>
     </tr>
     <tr>
-      <td>typeObject</td>
+      <td>verwervingswijze</td>
       <td>URI (SKOS Concept)</td>
-      <td>Type cultuurhistorisch object, gekozen uit een woordenlijst of thesaurus</td>
+      <td>De verwervingswijze van een cultuurhistorisch object</td>
+      <td>Nee</td>
+    </tr>
+    <tr>
+      <td>verzamelwijze</td>
+      <td>URI (SKOS Concept)</td>
+      <td>De verzamelwijze van een cultuurhistorisch object</td>
+      <td>Nee</td>
+    </tr>
+    <tr>
+      <td>aard_monument</td>
+      <td>URI (SKOS Concept)</td>
+      <td>URI (SKOS Concept)</td>
       <td>Ja</td>
     </tr>
     <tr>
-      <td>naam</td>
-      <td>string</td>
-      <td>Naam waaronder het object bekend is</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>beschrijving</td>
-      <td>string</td>
-      <td>Korte toelichting op het object</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>status</td>
+      <td>juridische_status</td>
       <td>URI (SKOS Concept)</td>
-      <td>De status van het object (bijvoorbeeld ‘definitief’, ‘voorlopig’)</td>
+      <td>De juridische status van het rijksmonument</td>
       <td>Ja</td>
     </tr>
   </tbody>
@@ -431,29 +439,25 @@
 
   <section id="attribuut-tekstobject">
     <h4>Tekst object</h4>
-    <!-- Zelfde structuur als hierboven -->
   </section>
 
   <section id="attribuut-bav-object">
     <h4>Beeld-audio-visueel object</h4>
-    <!-- Zelfde structuur als hierboven -->
   </section>
 
   <section id="attribuut-kennisregistratie">
     <h4>Kennisregistratie</h4>
-    <!-- Zelfde structuur als hierboven -->
   </section>
 
   <section id="attribuut-locatieregistratie">
     <h4>Locatieregistratie</h4>
-    <!-- Zelfde structuur als hierboven -->
   </section>
 
   <section id="attribuut-standplaatsregistratie">
     <h4>Standplaatsregistratie</h4>
-    <!-- Zelfde structuur als hierboven -->
   </section>
 </section>
 
   </body>
 </html>
+
