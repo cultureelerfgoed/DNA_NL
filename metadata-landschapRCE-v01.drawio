@@ -27,13 +27,13 @@
             <mxPoint x="320" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mgCrXdiNILzcyn7f9rNv-17" value="RCE Datasetregister afgeleide voor Kennisbank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-17" value="RCE Datasetregister afgeleide voor Kennisbank (Excel)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mgCrXdiNILzcyn7f9rNv-18" value="Handmatig" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="mgCrXdiNILzcyn7f9rNv-19" value="RCE Datasetregister&amp;nbsp; Kennisbank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-19" value="RCE Datasetregister&amp;nbsp; op Kennisbank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mgCrXdiNILzcyn7f9rNv-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mgCrXdiNILzcyn7f9rNv-17" target="mgCrXdiNILzcyn7f9rNv-19">
@@ -42,7 +42,7 @@
             <mxPoint x="520" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mgCrXdiNILzcyn7f9rNv-21" value="Script" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-21" value="Import script" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="200" as="geometry">
             <mxPoint x="-21" y="-3" as="offset" />
           </mxGeometry>
@@ -97,6 +97,41 @@
         </mxCell>
         <mxCell id="mgCrXdiNILzcyn7f9rNv-36" value="Handmatig" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mgCrXdiNILzcyn7f9rNv-32" target="mgCrXdiNILzcyn7f9rNv-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-40" value="Handmatig" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mgCrXdiNILzcyn7f9rNv-39">
+          <mxGeometry x="0.04" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-41" value="RCE Datasetregister op LDV (voor LOD versies van datasets)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mgCrXdiNILzcyn7f9rNv-0" target="mgCrXdiNILzcyn7f9rNv-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="320" as="sourcePoint" />
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mgCrXdiNILzcyn7f9rNv-41" target="mgCrXdiNILzcyn7f9rNv-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="560" as="sourcePoint" />
+            <mxPoint x="320" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-46" value="NDE Datasetregister" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-47" value="Handmatig" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="mgCrXdiNILzcyn7f9rNv-49" value="Harvest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
