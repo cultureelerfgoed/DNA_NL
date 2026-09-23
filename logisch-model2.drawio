@@ -61959,7 +61959,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T82WdPPCmFGNX45p7YDj" name="LDM_beeldbank_Beeldobject">
-    <mxGraphModel dx="2787" dy="1008" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2787" dy="2177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62065,7 +62065,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5l8nYyhH2gO-T5FjIP_s-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="la:Set" vertex="1">
-          <mxGeometry height="117" width="117" x="923" y="176" as="geometry" />
+          <mxGeometry height="117" width="117" x="891" y="159" as="geometry" />
         </mxCell>
         <mxCell id="5l8nYyhH2gO-T5FjIP_s-25" edge="1" parent="1" source="5l8nYyhH2gO-T5FjIP_s-1" style="endArrow=classic;html=1;rounded=0;exitX=0.954;exitY=0.284;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.013;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;" target="5l8nYyhH2gO-T5FjIP_s-24" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -62497,6 +62497,34 @@
         </mxCell>
         <mxCell id="k3Q3BB0_o-tnwAjNX0YJ-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;xsd:string&lt;/font&gt;" vertex="1">
           <mxGeometry height="39" width="100" x="1989" y="418" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Q3BB0_o-tnwAjNX0YJ-34" edge="1" parent="1" source="5l8nYyhH2gO-T5FjIP_s-24" style="endArrow=classic;html=1;rounded=0;exitX=0.087;exitY=0.226;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="k3Q3BB0_o-tnwAjNX0YJ-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="853" y="-71" as="sourcePoint" />
+            <mxPoint x="934" y="-52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3Q3BB0_o-tnwAjNX0YJ-35" connectable="0" parent="k3Q3BB0_o-tnwAjNX0YJ-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="rdfs:label" vertex="1">
+          <mxGeometry relative="1" x="0.0248" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3Q3BB0_o-tnwAjNX0YJ-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;xsd:string&lt;/font&gt;" vertex="1">
+          <mxGeometry height="39" width="100" x="723" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Q3BB0_o-tnwAjNX0YJ-37" edge="1" parent="1" source="5l8nYyhH2gO-T5FjIP_s-24" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="k3Q3BB0_o-tnwAjNX0YJ-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="356" y="-208" as="sourcePoint" />
+            <mxPoint x="330" y="-71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3Q3BB0_o-tnwAjNX0YJ-38" connectable="0" parent="k3Q3BB0_o-tnwAjNX0YJ-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;crm:P1_is_identified_by&lt;/div&gt;&lt;div&gt;(crm:P1i_identfies)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0021" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3Q3BB0_o-tnwAjNX0YJ-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; crm:E33_41_&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Linquistic_Appellation&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="117" x="911" y="-211" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
