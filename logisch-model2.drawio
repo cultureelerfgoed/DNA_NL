@@ -62558,7 +62558,7 @@
           <mxGeometry height="117" width="117" x="450" y="279" as="geometry" />
         </mxCell>
         <mxCell id="fOkZglZ56S1vSzv_BUKe-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;WAT TOONT HET?&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="548" y="255" as="geometry" />
+          <mxGeometry height="30" width="60" x="648" y="241" as="geometry" />
         </mxCell>
         <mxCell id="dgp5DMyvdzMVXb1NiWde-1" edge="1" parent="1" source="PL9emqd6T3Y7yUv0uxg4-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yp2lYZ5UmTb9HHo0U-x6-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -62630,16 +62630,36 @@
         <mxCell id="73A1p5pnWpKp1ibZNaEs-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;xsd:string&lt;/font&gt;" vertex="1">
           <mxGeometry height="39" width="100" x="1664" y="596" as="geometry" />
         </mxCell>
-        <mxCell id="P3kIEwizQsiifjTY5bNV-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;crm:E22:Human-Made_Object&lt;/font&gt;" vertex="1">
+        <mxCell id="P3kIEwizQsiifjTY5bNV-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;crm:E19:Physical_Object&lt;/font&gt;" vertex="1">
           <mxGeometry height="117" width="117" x="796" y="279" as="geometry" />
         </mxCell>
-        <mxCell id="P3kIEwizQsiifjTY5bNV-3" edge="1" parent="1" source="P3kIEwizQsiifjTY5bNV-1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="PL9emqd6T3Y7yUv0uxg4-1" value="">
+        <mxCell id="P3kIEwizQsiifjTY5bNV-3" edge="1" parent="1" source="PL9emqd6T3Y7yUv0uxg4-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="P3kIEwizQsiifjTY5bNV-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="614" y="445" as="sourcePoint" />
-            <mxPoint x="664" y="395" as="targetPoint" />
+            <mxPoint x="612.65" y="428.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P3kIEwizQsiifjTY5bNV-4" connectable="0" parent="P3kIEwizQsiifjTY5bNV-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(204, 123, 244);&quot;&gt;crm:&lt;/span&gt;P65_shows_visual_item" vertex="1">
+        <mxCell id="P3kIEwizQsiifjTY5bNV-4" connectable="0" parent="P3kIEwizQsiifjTY5bNV-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;crm:P65i_is_shown_by&amp;nbsp;&lt;/div&gt;&lt;div&gt;(P65_shows_visual_item)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0783" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feq1l2neF1Mc7jakYd7T-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;align=center;" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ceo:Cultuurhistorisch&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;Object&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="117" x="756" y="494" as="geometry" />
+        </mxCell>
+        <mxCell id="feq1l2neF1Mc7jakYd7T-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Breder dan Human-made_Object" vertex="1">
+          <mxGeometry height="30" width="60" x="915" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="feq1l2neF1Mc7jakYd7T-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Breder dan Rijksmonument?&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="865" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="feq1l2neF1Mc7jakYd7T-6" edge="1" parent="1" source="PL9emqd6T3Y7yUv0uxg4-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.081;entryY=0.237;entryDx=0;entryDy=0;entryPerimeter=0;" target="feq1l2neF1Mc7jakYd7T-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="577" y="348" as="sourcePoint" />
+            <mxPoint x="806" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feq1l2neF1Mc7jakYd7T-7" connectable="0" parent="feq1l2neF1Mc7jakYd7T-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;crm:P65i_is_shown_by&amp;nbsp;&lt;/div&gt;&lt;div&gt;(P65_shows_visual_item)&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0783" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
